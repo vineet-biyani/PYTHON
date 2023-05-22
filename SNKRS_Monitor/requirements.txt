@@ -1,0 +1,12 @@
+aiohttp==3.7.4
+async-timeout==3.0.1
+attrs==20.3.0
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==3.0.4
+discord.py==1.7.1
+discord-webhook==0.13.0
+googletrans==3.1.0a0 (Because the website is written in Spanish and some of the words remain in Spanish while extracting the data.)
+multidict==5.1.0
+requests==2.25.1
